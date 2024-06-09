@@ -17,7 +17,7 @@ class App extends StatelessWidget {
       minTextAdapt: true,
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: "Flutter Adv course",
+        title: "App",
         theme: ThemeData(
           primaryColor: ColorsManger.primaryColor,
           scaffoldBackgroundColor: Colors.white,
